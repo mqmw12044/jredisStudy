@@ -10,7 +10,7 @@ public class DemoTest {
         System.out.println(ping);
         System.out.println(ping);
         System.out.println(ping);
-        System.out.println("x1");
+        System.out.println("master");
 
     }
 
