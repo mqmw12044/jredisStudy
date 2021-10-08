@@ -12,6 +12,7 @@ public class DemoTest {
         System.out.println(ping);
         System.out.println("master");
         System.out.println("x1");
+        System.out.println("hahaha");
 
     }
 
