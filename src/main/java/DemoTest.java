@@ -7,6 +7,7 @@ public class DemoTest {
         jedis.auth("kala112003");
         String ping = jedis.ping();
         System.out.println(ping);
+        System.out.println(ping);
 
     }
 
