@@ -13,7 +13,8 @@ public class DemoTest {
         System.out.println("master");
         System.out.println("x1");
         System.out.println("hahaha");
- System.out.println("hahaha2222");
+        System.out.println("hahaha2222");
+        System.out.println("2021年10月10日10:55:55");
     }
 
     private Jedis jedis;
